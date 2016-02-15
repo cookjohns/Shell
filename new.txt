@@ -1,0 +1,5 @@
+a.out
+command.txt
+list.txt
+main.cpp
+new.txt
