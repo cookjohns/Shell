@@ -1,6 +1,4 @@
 //  main.cpp
-//  Shell implementation for COMP 3500 (Operating Systems)
-//  Spring 2016, Dr. Overbey
 //  Created by John Cook on 2/7/16.
 
 #include <iostream>
